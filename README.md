@@ -4,11 +4,11 @@ Linear Classifier with different approaches to select data to train.
 Our goal is to find only "important" data to train. 
 
 Classifier_Sample_Selection  
-Method 1. Take the data that has higher loss to train. 
+Method 1. Take the data that has higher loss to train.  
 Method 2. Take the data that are further from SVM to train. 
 
 Classifier_Linear_programming  
-Method 3. Using Linear programming to find the data to train. 
+Method 3. Using Linear programming to find the data to train.  
 Method 4. Using Integer Linear programming to find the data to train.
 
 
